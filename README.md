@@ -1,1 +1,1 @@
-# ResponseService
+Пример работы с  библиотекой Polly
